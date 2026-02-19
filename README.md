@@ -12,13 +12,9 @@ This is a simple **SMS Sender Web Application** built using **.NET**.
 
 ------------------------------------------------------------------------
 ## 🖼️ Application Preview
-<p align="center">
-  <img src="App%20Image%201.jpeg" width="600"/>
-</p>
+![App Image 1](app-image-1.jpeg)
+![App Image 2](app-image-2.jpeg)
 
-<p align="center">
-  <img src="App%20Image%202.jpeg" width="600"/>
-</p>
 ------------------------------------------------------------------------
 
 ## 🛠️ Technologies Used
