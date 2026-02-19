@@ -11,9 +11,6 @@ This is a simple **SMS Sender Web Application** built using **.NET**.
 -   Clean & Simple UI Design
 
 ------------------------------------------------------------------------
-
-## 🖼️ Application Preview
-
 ## 🖼️ Application Preview
 
 ![Output Image](Output%20Project/Output%20Image.png)
