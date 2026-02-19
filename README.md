@@ -14,7 +14,7 @@ This is a simple **SMS Sender Web Application** built using **.NET**.
 
 ## 🖼️ Application Preview
 
-![SMS Sender Screenshot](screenshot.png)
+![SmsSenderApp/blob/master/Output%20Image.png](Output Image)
 
 ------------------------------------------------------------------------
 
